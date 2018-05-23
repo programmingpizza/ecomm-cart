@@ -1,0 +1,17 @@
+.thumbnail img
+.thumbnail img {
+    /* max-height: 100px;
+    max-width: 100px; */
+}
+.thumbnail .description{
+    /* background-color: blue; */
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.container div{
+    /* background-color: black */
+}
+
